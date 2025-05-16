@@ -841,211 +841,211 @@ const langmap = {
     "Confirm Password": "確認密碼",
     Register: "註冊",
   },
-  fr: {
+  de: {
     // Navbar
-    Home: "Accueil",
-    Search: "Rechercher",
-    Upload: "Téléverser",
-    About: "À propos",
-    "Log in": "Connexion",
+    Home: "Startseite",
+    Search: "Suche",
+    Upload: "Hochladen",
+    About: "Über",
+    "Log in": "Anmelden",
 
     // Home Page
-    "Welcome to scmscx.com": "Bienvenue sur scmscx.com",
+    "Welcome to scmscx.com": "Willkommen zu scmscx.com",
     "The largest StarCraft: Brood War map database in the universe":
-      "La plus grand base de données de cartes pour StarCraft: Brood-War de l'univers",
+      "Die größte Datenbank für StarCraft: Brood-War Karten des Universums",
 
-    "Recently Viewed Maps": "Cartes Vues Récement",
-    "Recently Downloaded Maps": "Cartes Téléchargées Récement",
-    "Recently Uploaded Maps": "Cartes Téléversées Récement",
-    "Featured Maps": "Cartes Vedettes",
+    "Recently Viewed Maps": "Kürzlich angeschaute Karten",
+    "Recently Downloaded Maps": "Kürzlich heruntergeladene Karten",
+    "Recently Uploaded Maps": "Kürzlich hochgeladene Karten",
+    "Featured Maps": "Präsentierte Karten",
 
     // Search
-    Query: "Requête",
-    Random: "Aléatoire",
+    Query: "Suchbegriff(e)",
+    Random: "Zufallskarte",
 
-    Targets: "Cible",
-    Filters: "Filtes",
-    Sorting: "Trier",
-    Results: "Résultats",
+    Targets: "Suche in",
+    Filters: "Filter",
+    Sorting: "Sortierung",
+    Results: "Suchergebnisse",
 
-    Scenario: "Scénario",
-    "Last Modified": "Dernière Modification",
-    "Time Uploaded": "Téléversée le",
+    Scenario: "Szenario",
+    "Last Modified": "Änderungsdatum",
+    "Time Uploaded": "Hochgeladen",
 
-    Units: "Unités",
-    Forces: "Forces",
-    Filenames: "Nom de Fichier",
-    Scenarios: "Scénarios",
-    "Scenario Descriptions": "Description du Scénario",
+    Units: "Einheiten",
+    Forces: "Gruppierungen",
+    Filenames: "Dateiname",
+    Scenarios: "Szenarioname",
+    "Scenario Descriptions": "Szenariobeschreibung",
 
-    "Minimum Map Width": "Largeur Minimum de la Carte",
-    "Maximum Map Width": "Largeur Maximum de la Carte",
+    "Minimum Map Width": "Minimale Szenario-Breite",
+    "Maximum Map Width": "Maximale Szenario-Breite",
 
-    "Minimum Map Height": "Hauteur Minimum de la Carte",
-    "Maximum Map Height": "Hauteur Maximum de la Carte",
+    "Minimum Map Height": "Minimale Szenario-Höhe",
+    "Maximum Map Height": "Minimale Szenario-Breite",
 
-    "Minimum Human Players": "Minimum de Joueurs Humain",
-    "Maximum Human Players": "Maximum de Joueurs Humain",
+    "Minimum Human Players": "Mindestanzahl menschliche Spieler",
+    "Maximum Human Players": "Maximalanzahl menschliche Spieler",
 
-    "Minimum Computer Players": "Minimum de Joueurs Ordinateur",
-    "Maximum Computer Players": "Maximum de Joueurs Ordinateur",
+    "Minimum Computer Players": "Mindestanzahl Computerspieler",
+    "Maximum Computer Players": "Maximalanzahl Computerspieler",
 
-    "Last Modified After": "Modifiée Après le",
-    "Last Modified Before": "Modifiée Avant le",
-    "Time Uploaded After": "Téléversée Après le",
-    "Time Uploaded Before": "Téléversée Avant le",
+    "Last Modified After": "Änderungsdatum nach",
+    "Last Modified Before": "Änderungsdatum vor",
+    "Time Uploaded After": "Hochgeladen nach",
+    "Time Uploaded Before": "Hochgeladen vor",
 
-    Badlands: "Marais",
-    Space: "Espace",
+    Badlands: "Ödland",
+    Space: "Weltraum-Plattform",
     Installation: "Installation",
-    Ashworld: "Cendres",
-    Jungle: "Jungle",
-    Desert: "Désert",
-    Ice: "Glace",
-    Twilight: "Pénombre",
+    Ashworld: "Aschewelt",
+    Jungle: "Dschungelwelt",
+    Desert: "Wüste",
+    Ice: "Eis",
+    Twilight: "Zwielicht",
 
-    Relevancy: "Pertinence",
-    "Last Modified (Oldest First)":
-      "Dernières Modification (Plus Ancien au Plus Récent)",
-    "Last Modified (Newest First)": "Dernière Modification (Plus Récent au Plus Ancien)",
-    "Time Uploaded (Oldest First)": "Date de Téléversement (Plus Ancien au Plus Récent)",
-    "Time Uploaded (Newest First)": "Date de Téléversement (Plus Récent au Plus Ancien)",
+    Relevancy: "Relevanz",
+    "Last Modified (Oldest First)": "Änderungsdatum (Älteste zuerst)",
+    "Last Modified (Newest First)": "Änderungsdatum (Neueste zuerst)",
+    "Time Uploaded (Oldest First)": "Hochgeladen (Älteste zuerst)",
+    "Time Uploaded (Newest First)": "Hochgeladen (Neueste zuerst)",
 
     // Map page
-    Download: "Télécharger",
-    Minimap: "Minicarte",
+    Download: "Download",
+    Minimap: "Minikarten-Vorschau",
 
-    "Scenario Properties": "Propriétés du Scénario",
+    "Scenario Properties": "Szenario-Eigenschaften",
     Version: "Version",
-    Tileset: "Environnement",
-    Dimensions: "Dimensions",
-    Locations: "Zones",
-    Doodads: "Doodads",
+    Tileset: "Grafiksatz",
+    Dimensions: "Größe",
+    Locations: "Regionen",
+    Doodads: "Gegenstände",
     Sprites: "Sprites",
-    Triggers: "Déclencheurs",
-    "Briefing Triggers": "Déclencheurs de Briefing",
+    Triggers: "Auslöser",
+    "Briefing Triggers": "Auslöser bei Missionsbeschreibung",
 
     Replays: "Replays",
-    Duration: "Durée",
-    "Time Recorded": "Temps Enregistré",
-    Creator: "Créateur",
+    Duration: "Dauer",
+    "Time Recorded": "Aufnahmedatum",
+    Creator: "Ersteller",
 
-    "Known Filenames": "Noms de Fichiers Connus",
-    Filename: "Nom de Fichier",
+    "Known Filenames": "Bekannte Dateinamen ",
+    Filename: "Dateiname",
 
-    "Known Timestamps": "Horodatages Connus",
-    "Last Modified Time": "Dernière Modification",
+    "Known Timestamps": "Bekannte Zeitstempel",
+    "Last Modified Time": "Änderungsdatum",
 
-    Unit: "Unité",
-    Name: "Nom",
+    Unit: "Einheit",
+    Name: "Name",
 
-    "Similar Maps": "Cartes Similaires",
+    "Similar Maps": "Ähnliche Karten",
 
-    Flags: "Drapeaux",
-    Unfinished: "Inachevée",
-    Outdated: "Obsolète",
-    Broken: "Dysfonctionnelle",
-    "Black Holed": "Jetée dans un Trou Noir",
-    "Spoiler Unit Names": "Noms d'Unités Divulgâchent",
+    Flags: "Flags",
+    Unfinished: "Unfertig",
+    Outdated: "Veraltet",
+    Broken: "Kaputt",
+    "Black Holed": "Ins schwarze Loch geworfen (gelöscht)",
+    "Spoiler Unit Names": "Einheitennamen versteckt (keine Spoiler)",
 
-    Key: "Clef",
-    Value: "Valeur",
+    Key: "Schlüssel",
+    Value: "Wert",
 
-    Tags: "Étiquettes",
+    Tags: "Tags",
 
-    "MPQ Hash": "Hash MPQ",
-    "MPQ Size": "Taille MPQ",
-    "CHK Hash": "Hash CHK",
-    "CHK Size": "Taille CHK",
-    "Uploaded by": "Téléversée par",
-    "Uploaded On": "Téléversée le",
-    "Last Viewed": "Dernière Vue",
-    "Last Downloaded": "Dernier Téléchargement",
-    Views: "Vues",
-    Downloads: "Téléchargements",
+    "MPQ Hash": "MPQ Hash",
+    "MPQ Size": "MPQ Größe",
+    "CHK Hash": "CHK Hash",
+    "CHK Size": "CHK Größe",
+    "Uploaded by": "Hochgeladen von",
+    "Uploaded On": "Hochgeladen am",
+    "Last Viewed": "Zuletzt angesehen",
+    "Last Downloaded": "Zuletzt heruntergeladen",
+    Views: "Aufrufe",
+    Downloads: "Downloads",
 
     // Upload
     "If you want to upload one or more .scm/.scx files, then choose the top file picker.":
-      "Si vous désirez téléverser un ou plusieurs fichiers .scm/.scx, utilisez le sélecteur de fichiers supérieur.",
+      "Wenn Du eine oder mehrere .scm/.scx-Dateien hochladen möchtest, wähle den oberen Dateiauswahl-Button.",
 
     "If you want to upload entire directories and their sub directories, then choose the bottom file picker.":
-      "Si vous désirez téléverser récursivement tout un répertoire, utilisez le sélecteur de fichiers inféreur.",
+      "Wenn Du gesamte Verzeichnisse und deren Unterverzeichnisse hochladen möchtest, wähle den unteren Dateiauswahl-Button.",
 
     "Don't worry about corrupt, broken, unfinished, testing, duplicate, or outdated maps. The website will handle all of this and many of them are important parts of StarCraft map making history. Even uploading the exact same maps multiple times is no concern. So, upload everything you have and let the site do the filtering and processing.":
-      "Ne vous préoccupez pas des cartes corrompues, cassées, inachevées, dupliquées ou obsolètes. Le site se chargera de tout, et nombre d'entre elles sont une part importante de l'histoire de la création de cartes pour StarCraft. Même téléverser plusieurs fois la même carte n'est pas un problème. Donc, téléversez tout ce dont vous disposez et laissez au site le filtrage et le traitement.",
+      "Mach Dir keine Sorgen über korrupte, defekte, unfertige, doppelte, veraltete oder Test-Karten. Die Webseite wird sich um all das kümmern, und vieles davon ist wichtiger Teil der Geschichte des StarCraft-Kartenerstellens. Selbst das mehrfache Hochladen derselben Karten ist kein Problem. Lade also alles hoch, was Du hast, und lass die Seite die Filterung und Verarbeitung übernehmen.",
 
     "Try uploading your entire StarCraft map directory, it can commonly be found at:":
-      "Essez de téléverser l'ensemble du répertoire de cartes de StarCraft, il peut généralement être trouvé à :",
+      "Versuche, dein gesamtes StarCraft-Kartenverzeichnis hochzuladen. Es befindet sich normalerweise unter:",
 
-    ".scm/.scx file upload": "Téléversement de fichier .scm/.scx",
+    ".scm/.scx file upload": ".scm/.scx-Dateien hochladen",
 
     "Directory (and sub directories) upload":
-      "Téléversement de répertoire (et sous-répertoires)",
+      "Ganze Verzeichnisse (inkl. Unterverzeichnissen) hochladen",
     "Uploads are disabled while maintenance is being performed. Expected duration 2 hours.":
-      "Les téléversements sont désactivés lors d'une maintenance. Temps estimé de deux heures.",
+      "Uploads sind deaktiviert, während Wartungsarbeiten durchgeführt werden. Erwartete Dauer: 2 Stunden.",
     "Account operations are disabled while maintenance is being performed. Expected duration 2 hours.":
-      "Les modifications de comptes sont désactivées lors d'une maintenance. Temps éstimé de deux heures.",
+      "Kontovorgänge sind deaktiviert, während Wartungsarbeiten durchgeführt werden. Erwartete Dauer: 2 Stunden.",
 
-    "In Progress": "En cour",
-    Progress: "Progès",
-    Size: "Taille",
-    Pending: "En attente",
-    Failed: "Échoué(s)",
-    "Retry All": "Tout réessayer",
-    Retry: "Réessayer",
-    Reason: "Raison",
-    Completed: "Complété(s)",
-    Link: "Lien",
+    "In Progress": "In Arbeit",
+    Progress: "Fortschritt",
+    Size: "Größe",
+    Pending: "Warteschlange",
+    Failed: "Fehlgeschlagen",
+    "Retry All": "Alle nochmals versuchen",
+    Retry: "Nochmals versuchen",
+    Reason: "Grund",
+    Completed: "Erledigt",
+    Link: "Link",
 
     // About Page
-    "Frequently Asked Questions": "Foire aux Questions",
-    "What is this website?": "Qu'est-ce-que ce site ?",
-    "Why does this website exist?": "Pourquoi ce site existe ?",
-    "What does scmscx.com mean?": "Que signifie scmscx.com ?",
+    "Frequently Asked Questions": "Häufig gestellte Fragen",
+    "What is this website?": "Was ist das für eine Webseite?",
+    "Why does this website exist?": "Warum existiert diese Webseite?",
+    "What does scmscx.com mean?": "Was bedeutet scmscx.com?",
     "Why do we need another map database website?":
-      "Pourquoi avons-nous besoin d'une autre base de données de cartes ?",
+      "Warum brauchen wir eine weitere Karten-Datenbank-Webseite?",
 
     "How do I play the maps after I have downloaded from here?":
-      "Comment jouer avec les cartes après les avoir téléchargé ?",
+      "Wie spiele ich die Karten, die ich hier heruntergeladen habe?",
 
-    "How many maps does the database have?": "De combien de cartes la base de données dispose t'elle?",
+    "How many maps does the database have?":
+      "Wie viele Karten hat die Datenbank?",
 
     "Can I contribute maps to the database?":
-      "Puis-je ajouter une carte à la base de données ?",
+      "Kann ich Karten zur Datenbank beitragen?",
 
     "How is this website made? What is the technology behind it?":
-      "Comment ce site est conçu ? Quelle technologie cache t'il ?",
+      "Wie ist diese Webseite gemacht? Welche Technologie steckt dahinter?",
 
     "Can I link directly to map downloads or minimap previews?":
-      "Puis-je pointer directement vers une carte ou un aperçu de minicarte ?",
+      "Kann ich direkt zu Kartendownloads oder Minikarten-Vorschauen verlinken?",
 
     "I found a bug. How do I report it?":
-      "J'ai trouvé un bogue. Comment le remonter ?",
+      "Ich habe einen Fehler gefunden. Wie kann ich ihn melden?",
 
-    "How can I contact you?": "Comment vous contacter ?",
+    "How can I contact you?": "Wie kann ich Dich kontaktieren?",
 
     "Can I make a donation, how much does this site cost to run?":
-      "Puis-je faire un don ? Combien le fonctionnement du site coûte t'il?",
+      "Kann ich eine Spende machen? Wie viel kostet der Betrieb dieser Webseite?",
 
-    "Credit and Thanks": "Crédits et Remercements",
+    "Credit and Thanks": "Anerkennung und Dank",
 
-    Devlog: "Journal de Développement",
+    Devlog: "Entwicklerprotokoll",
 
     // User page
-    "Log out": "Déconnexion",
-    "Change Username": "Changer d'Identifiant",
-    "New Username": "Nouvel Identifiant",
-    "Confirm New Username": "Confirmer le Nouvel Identifiant",
-    "Current Password": "Mot de Passe Actuel",
-    "Change Password": "Changer de Mot de Passe",
-    "New Password": "Nouveau Mot de Passe",
-    "Confirm New Password": "Confirmer le Nouveau Mot de Passe",
+    "Log out": "Abmelden",
+    "Change Username": "Benutzernamen ändern",
+    "New Username": "Neuer Benutzername",
+    "Confirm New Username": "Neuen Benutzernamen bestätigen",
+    "Current Password": "Aktuelles Kennwort",
+    "Change Password": "Kennwort ändern",
+    "New Password": "Neues Kennwort",
+    "Confirm New Password": "Neues Kennwort bestätigen",
 
     // Log In page
-    Username: "Identifiant",
-    Password: "Mot de Passe",
-    Register: "S'enregistrer",
-    "Confirm Password": "Confirmer le Mot de Passe",
+    Username: "Benutzername",
+    Password: "Kennwort",
+    Register: "Registrieren",
+    "Confirm Password": "Kennwort bestätigen",
   },
 };
 
